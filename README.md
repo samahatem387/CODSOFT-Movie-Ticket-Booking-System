@@ -16,11 +16,3 @@ This C++ program simulates a movie ticket booking system. It allows users to vie
 2. Run the compiled executable.
 3. Follow the prompts to select a movie, choose seats, and make bookings.
 4. Enjoy the movie!
-
-## Contributing
-
-Contributions are welcome! If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
